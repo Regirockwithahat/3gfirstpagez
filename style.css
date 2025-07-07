@@ -1,1 +1,16 @@
+body {
+  min-height: 100vh;
+  background: linear-gradient(60deg,cyan,yellow,white);
+display: flex;
+justify-content: center;
+aling-items: center;
+  
 
+}
+span{
+  background-color:gray;
+  padding: 20px;
+  border-radius: 1000000px;
+  color:black;
+  box-shadow: 0 0 10px black;
+}
